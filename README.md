@@ -7,7 +7,7 @@
 Buat Variabel Global untuk menyimpan data Mahasiswa dan buat fungsi tambah untuk menambahkan data
 ![ss1](src/ss1.png)
 
-Buat fungsi tampilkan unutk menampilkan data.
+Buat fungsi tampilkan unutk menampilkan data dan buat tabel untuk data tersebut.
 ![ss2](src/ss2.png)
 
 Buat funsi hapus untuk menghapus data berdasarkan nama.
