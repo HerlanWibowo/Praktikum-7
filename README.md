@@ -4,7 +4,7 @@
 
 ### Begini Tutorialnya
 
-Buat Variabel Global untuk menyimpan data Mahasiswa dan buat fungsi tambah untuk menambahkan nama,nim dan nilai.
+Buat Variabel Global untuk menyimpan data Mahasiswa dan buat fungsi tambah untuk menambahkan data
 ![ss1](src/ss1.png)
 
 Buat fungsi tampilkan unutk menampilkan data.
