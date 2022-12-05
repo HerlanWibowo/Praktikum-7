@@ -4,16 +4,17 @@
 
 ### Begini Tutorialnya
 
-Buat Variabel Global untuk menyimpan data Mahasiswa dan buat fungsi tambah
+Buat Variabel Global untuk menyimpan data Mahasiswa dan buat fungsi tambah untuk menambahkan nama,nim dan nilai.
+![ss1](src/ss1.png)
 
-data = {}
+Buat fungsi tampilkan unutk menampilkan data.
+![ss2](src/ss2.png)
 
-def tambah():
-    print("Tambah Data")
-    nama = input("Nama\t\t: ")
-    nim = int(input("NIM\t\t: "))
-    tugas = int(input("NIlai Tugas\t: "))
-    uts = int(input("Nilai UTS\t: "))
-    uas = int(input("Nilai UAS\t: "))
-    nilaiakhir = (tugas * 0.3 + uts * 0.35 + uas * 0.35)
-    data[nama] = nim, tugas, uts, uas, nilaiakhir
+Buat funsi hapus untuk menghapus data berdasarkan nama.
+![ss3](src/ss3.png)
+
+Buat fungsi ubah untuk mengubah data berdasarkan nama.
+![ss4](src/ss4.png)
+
+Buat program menu untuk menampilkan semua fungsi yang telah dibuat mengggunakan while.
+![ss5](src/ss5.png)
