@@ -1,6 +1,6 @@
 ### Membuat Program daftar Nilai Mahasiswa dan Flowchartnya
 ### Ini Flowchartnya
-![Flowchart](/flowchart.png)
+![Flowchart](src/flowchart.png)
 
 ### Begini Tutorialnya
 
